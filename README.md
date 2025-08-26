@@ -1,1 +1,1 @@
-# js-hindi
+# Learning-js
